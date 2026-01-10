@@ -1,4 +1,4 @@
-# Hihi-Chat 弹幕姬
+# Sunny-Chat 弹幕姬
 
 ## 为成为向阳人而骄傲
 
